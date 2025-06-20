@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdul Rahman Kole-Ibrahim</h1>
-<h3 align="center">Experienced Mobile Engineer with exceptional skills, boasting a 4-year track record in crafting mobile applications across diverse sectors such as agrictech, fintech, e-commerce, real estate, and logistics. Demonstrated success in delivering mobile applications characterized by engaging UI/UX and quantifiable metrics. Proficient in team leadership, project management, front-end development, and the application of industry best practices.</h3>
+<h3 align="center">Experienced Mobile Engineer with exceptional skills, boasting a 6-year track record in crafting mobile applications across diverse sectors such as agrictech, fintech, e-commerce, real estate, and logistics. Demonstrated success in delivering mobile applications characterized by engaging UI/UX and quantifiable metrics. Proficient in team leadership, project management, front-end development, and the application of industry best practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanbayo&label=Profile%20views&color=0e75b6&style=flat" alt="abdulrahmanbayo" /> </p>
 
