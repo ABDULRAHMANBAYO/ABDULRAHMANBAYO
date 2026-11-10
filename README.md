@@ -83,19 +83,19 @@ Users can log meals through **photo recognition, barcode scanning, or manual inp
 
 ---
 
-## 🩺 DoraScribe
+## 🩺 Dorascribe
 
 AI-powered medical scribe designed to help clinicians reduce documentation time and spend more time focused on patient care.
 
 The platform supports AI-assisted clinical documentation, transcription, structured medical notes, and healthcare workflows.
 
-**Tech:** React Native • TypeScript • Firebase • AI/LLM Integration • Audio Processing • Shorebird • REST APIs
+**Tech:** React Native • TypeScript • Firebase • AI/LLM Integration • Audio Processing • REST APIs
 
 🌐 **Website:** [dorascribe.ai](https://dorascribe.ai/)
 
-🍎 **App Store:** [Download DoraScribe for iOS](https://apps.apple.com/us/app/dorascribe/id6751861797)
+🍎 **App Store:** [Download Dorascribe for iOS](https://apps.apple.com/us/app/dorascribe/id6751861797)
 
-🤖 **Google Play:** [Download DoraScribe for Android](https://play.google.com/store/apps/details?id=app.dorascribe.ai)
+🤖 **Google Play:** [Download Dorascribe for Android](https://play.google.com/store/apps/details?id=app.dorascribe.ai)
 
 ---
 
